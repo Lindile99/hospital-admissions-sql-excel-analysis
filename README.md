@@ -1,12 +1,10 @@
-# Hospital Admissions Analytics Dashboard (SQL + Excel)
+# 🏥 Hospital Admissions Analysis (SQL + Excel)
+
+## 📌 Project Overview
 
 This project analyzes a healthcare dataset using **SQL for data cleaning and analysis** and **Excel for interactive dashboard visualization**.
 
 The goal of the project is to demonstrate practical data analysis skills including **data cleaning, aggregation, pivot tables, and dashboard creation**.
-
----
-
-## Project Overview
 
 The dataset contains hospital patient admission records including:
 
@@ -25,7 +23,7 @@ Using SQL and Excel, the data was cleaned, analyzed, and transformed into an int
 - Source : [Kaggle - Sample Healthcare Dataset](https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
 
 
-## Tools Used
+## 🛠 Tools Used
 
 - **MySQL** – Data cleaning and aggregation
 - **Microsoft Excel** – Pivot tables, charts, and dashboard creation
@@ -33,7 +31,7 @@ Using SQL and Excel, the data was cleaned, analyzed, and transformed into an int
 
 ---
 
-## Key Analysis Questions
+## Key Analysis Questions❓️❓️
 
 The analysis focuses on answering the following questions:
 
@@ -75,7 +73,7 @@ An interactive Excel dashboard was built using:
 - Total Revenue
 - Average Stay Length
 
- ## Visualizations
+ ## 📊📉 Visualizations
 
 - Monthly Admissions Trend
 - Revenue by Insurance Provider
@@ -103,7 +101,7 @@ Slicers allow users to filter the dashboard by:
 - Data visualization
 - Analytical thinking
 
-  ## Future Improvements
+  ## 🚀 Future Improvements
 
 - Possible improvements for this project include:
 - Building the dashboard in Power BI
@@ -111,5 +109,20 @@ Slicers allow users to filter the dashboard by:
 - Automating data updates using Power Query
 
   ## 📁 Repository Structure
-
   
+Hospital Admissions Analysis (SQL + Excel)
+│
+├── data
+│   ├── healthcare_raw.csv
+│   └── healthcare_cleaned.csv
+│
+├── sql
+│   └── data_cleaning_and_analysis.sql
+│
+├── excel
+│   └── healthcare_dashboard.xlsx
+│
+├── images
+│   └── dashboard.png
+│
+└── README.md
