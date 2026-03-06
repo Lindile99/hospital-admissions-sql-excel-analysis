@@ -89,7 +89,8 @@ Slicers allow users to filter the dashboard by:
 - Medical Condition
 - Dashboard Preview
 
-(Add a screenshot of your dashboard here)
+## Dashboard Preview
+![Healthcare Dashboard](dashboard.png)
 
 ## Key Skills Demonstrated
 
