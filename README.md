@@ -90,7 +90,7 @@ Slicers allow users to filter the dashboard by:
 - Dashboard Preview
 
 ## Dashboard Preview
-![Healthcare Dashboard](dashboard.png)
+![Healthcare Dashboard](images/dashboard.png)
 
 ## Key Skills Demonstrated
 
